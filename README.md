@@ -3,6 +3,9 @@
 ## Abstract
 For those paralyzed from the neck down (quadriplegic), simple tasks such as short-range transportation can pose a major difficulty. The goal of this research is to provide quadriplegic individuals with independent transportation. By using electroencephalogram (EEG), a noninvasive method to measure electrical activities in the brain, the group can create a brain-computer interface (BCI) that will allow the user to control a wheelchair with his or her own thoughts. Components being integrated into the project include a Raspberry Pi 3 (with Bluetooth) and a Neurosky headset, which allows the user to analyze levels of concentration, meditation, and registers blinks. Success in this research setting will be indicated by the ability of a non-paralyzed user to navigate a GoPiGo (a Raspberry Pi connected to motorized wheels) proof-of-concept wheelchair-like device from rest to an indicated ending point using only their thoughts.
 
+- Final Report: [BMW Final Report pdf](http://kastner.ucsd.edu/ryan/wp-content/uploads/sites/5/2014/03/admin/BMW-Final-Report.pdf)
+- Final Video: [YouTube Video](https://www.youtube.com/watch?v=Wtz6SKpYudE)
+
 ## Team Members
  - Alexander Harold Polus
    - Contruction of wheelchair prototype
